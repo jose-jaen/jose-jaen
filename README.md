@@ -7,7 +7,7 @@ I am José Jaén, a *Data Science Consultant* at ***SAS Institute***.
 - 🤔 Passionate about Big Data, Machine Learning, Statistics and Econometrics.
 - 💬 Please feel free to check my [LinkedIn profile](https://www.linkedin.com/in/jose-jaen/)
 
-This is a collection of my Data Analytics projects:
+This is a collection of my Data Analytics projects.
 
 # Beginner Level:
 
