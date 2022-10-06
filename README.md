@@ -25,4 +25,4 @@ This is a collection of my Data Analytics projects.
 # Advanced Level:
 
 - :triangular_ruler: [Applied-Mathematics](https://github.com/jose-jaen/Applied-Mathematics): Mathematical algorithms for Data Analytics.
-- - :bar_chart: [Advanced-Econometrics](https://github.com/jose-jaen/Advanced-Econometrics): Econometric Theory and algorithms. 
+- :bar_chart: [Advanced-Econometrics](https://github.com/jose-jaen/Advanced-Econometrics): Econometric Theory and algorithms. 
