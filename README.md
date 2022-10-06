@@ -1,4 +1,4 @@
-### Hi there! 👋
+## Hi there! 👋
 
 I am José Jaén, a *Data Science Consultant* at ***SAS Institute***.
 
