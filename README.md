@@ -11,7 +11,7 @@ This is a collection of my Data Analytics projects (date in square brackets).
 
 # Beginner Level:
 
-- :runner: [Bellabeat-Case-Study](https://github.com/jose-jaen/Bellabeat-Case-Study): Sports Analytics study as part of Google Data Analytics Capstone Project. [07/2021]
+- :runner: [Bellabeat-Case-Study](https://github.com/jose-jaen/Bellabeat-Case-Study): Sports Analytics study as part of Google Data Analytics Capstone Project [07/2021]
 
 
 # Intermediate Level:
