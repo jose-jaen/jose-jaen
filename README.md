@@ -26,4 +26,4 @@ This is a collection of my Data Analytics projects (date in square brackets).
 
 - :bar_chart: [Advanced-Econometrics](https://github.com/jose-jaen/Advanced-Econometrics): Econometric Theory and algorithms [03/2022]
 - :triangular_ruler: [Applied-Mathematics](https://github.com/jose-jaen/Applied-Mathematics): Mathematical algorithms for Data Analytics [08/2022]
-- :house: [Airbnb Price Prediction](https://github.com/jose-jaen/Airbnb) Quantitative Economics Bachelor Thesis. Machine Learning and Deep Learning algorithms [09/2022]
+- :house: [Airbnb Price Prediction](https://github.com/jose-jaen/Airbnb) Machine Learning and Deep Learning algorithms with Bayesian Statistics (Bachelor Thesis) [09/2022]
