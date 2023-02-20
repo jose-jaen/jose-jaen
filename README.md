@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I am José Jaén, a *Data Science Consultant* at ***SAS Institute***
+I am José Jaén, a *Data Scientist* working at ***Global Alumni***
 
 - :mortar_board: Studying a Bachelor in Economics & Law and a Minor in Statistics at Universidad Carlos III de Madrid (uc3m)
 - 🔭 Specializing in Quantitative Techniques for Data Analytics
