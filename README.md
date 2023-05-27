@@ -7,12 +7,7 @@ I am José Jaén, a *Data Scientist* working at ***Global Alumni***
 - 🤔 Passionate about Big Data, Machine Learning, Statistics and Econometrics
 - 💬 Please feel free to check my [LinkedIn profile](https://www.linkedin.com/in/jose-jaen/)
 
-This is a collection of my Data Analytics projects (date in square brackets)
-
-# Beginner Level:
-
-- :runner: [Bellabeat-Case-Study](https://github.com/jose-jaen/Bellabeat-Case-Study): Sports Analytics study as part of Google Data Analytics Capstone Project [07/2021]
-
+This is a collection of some of my Data Analytics projects (date in square brackets)
 
 # Intermediate Level:
 
