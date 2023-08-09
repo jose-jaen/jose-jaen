@@ -2,9 +2,9 @@
 
 I am José Jaén, a *Data Scientist* working at ***Global Alumni***
 
-- :mortar_board: Studying a Bachelor in Economics & Law and a Minor in Statistics at Universidad Carlos III de Madrid (uc3m)
+- :mortar_board: Studying a [Master's Degree in Big Data Analytics](https://www.uc3m.es/master/big-data-analytics#curriculum) at Universidad Carlos III de Madrid (uc3m)
 - 🔭 Specializing in Quantitative Techniques for Data Analytics
-- 🤔 Passionate about Big Data, Machine Learning, Statistics and Econometrics
+- 🤔 Passionate about AI applications, Big Data, Machine Learning algorithms, Statistics and Econometrics
 - 💬 Please feel free to check my [LinkedIn profile](https://www.linkedin.com/in/jose-jaen/)
 
 This is a collection of some of my Data Analytics projects (date in square brackets)
@@ -22,3 +22,4 @@ This is a collection of some of my Data Analytics projects (date in square brack
 - :bar_chart: [Advanced-Econometrics](https://github.com/jose-jaen/Advanced-Econometrics): Econometric Theory and algorithms [03/2022]
 - :triangular_ruler: [Applied-Mathematics](https://github.com/jose-jaen/Applied-Mathematics): Mathematical algorithms for Data Analytics [08/2022]
 - :house: [Airbnb Price Prediction](https://github.com/jose-jaen/Airbnb) Machine Learning and Deep Learning algorithms using Bayesian Statistics (Bachelor Thesis) [09/2022]
+- :computer: [Data Structures & Algorithms](https://github.com/jose-jaen/Data-Structures-Algorithms) Data Structures & Algorithms implementations [08/2023]
