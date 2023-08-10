@@ -3,7 +3,7 @@
 I am José Jaén, a *Data Scientist* working at ***Global Alumni***
 
 - :mortar_board: Studying a [Master's Degree in Big Data Analytics](https://www.uc3m.es/master/big-data-analytics#curriculum) at Universidad Carlos III de Madrid (uc3m)
-- 🔭 Specializing in Quantitative Techniques for Data Analytics
+- 🔭 Professional experience in data analysis, automation, data modeling and backend engineering
 - 🤔 Passionate about AI applications, Big Data, Machine Learning algorithms, Statistics and Econometrics
 - 💬 Please feel free to check my [LinkedIn profile](https://www.linkedin.com/in/jose-jaen/)
 
