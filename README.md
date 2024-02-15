@@ -13,7 +13,7 @@ This is a collection of some of my Data Science projects (date in square bracket
 
 - :smiley: [Amazon-NLP](https://github.com/jose-jaen/Amazon-NLP): My first Sentiment Analysis project using millions of Amazon reviews [09/2021]
 - :chart_with_upwards_trend: [Bayesian-Statistics](https://github.com/jose-jaen/Bayesian-Statistics): Bayesian Methods for Data Analytics [12/2021]
-- :computer: [Codeforces](https://github.com/jose-jaen/Codeforces): Solutions to competitive programming website Codeforces algorithms in Python [2022]
+- :computer: [Coding-Questions](https://github.com/jose-jaen/Coding-Questions): Solutions to competitive programming website Codeforces algorithms in Python [2022]
 - :car: [Multivariate-Analysis](https://github.com/jose-jaen/Multivariate-Analysis): Multivariate statistical techniques applied to automovile dataset [05/2022]
 
 
