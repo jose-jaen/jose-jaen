@@ -23,4 +23,4 @@ This is a collection of some of my Data Science projects (date in square bracket
 - :triangular_ruler: [Applied-Mathematics](https://github.com/jose-jaen/Applied-Mathematics): Mathematical algorithms for Data Analytics [08/2022]
 - :house: [Airbnb Price Prediction](https://github.com/jose-jaen/Airbnb): Machine Learning and Deep Learning algorithms using Bayesian Statistics (Bachelor Thesis) [09/2022]
 - :computer: [Data Structures & Algorithms](https://github.com/jose-jaen/Data-Structures-Algorithms): Data Structures & Algorithms implementations [08/2023]
-- :mask: :mag: [Facial Recognizer](https://github.com/jose-jaen/FacialRecognizer): Computer Vision project performing facial recognition [05/2024]
+- :mag: [Facial Recognizer](https://github.com/jose-jaen/FacialRecognizer): Computer Vision project performing facial recognition [05/2024]
